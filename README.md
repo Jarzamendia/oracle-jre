@@ -1,1 +1,1 @@
-# oracle-jre
+# Oracle JDK
