@@ -1,4 +1,4 @@
-FROM jarzamendia/alpine-3.10
+FROM jarzamendia/alpine-3.11
 
 RUN apk add --no-cache curl tar bash; \
     cd /opt;  \
